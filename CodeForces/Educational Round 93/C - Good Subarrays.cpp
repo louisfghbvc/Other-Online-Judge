@@ -1,8 +1,8 @@
 // O(N). prefix tweak.
 // so the question is count subarray sum == subarray length
-// Pr - Pl == len. so add Pr-len = Pl. and only check biggest length is enough.
-// no need to from big to small length. because is covered.
-// Next time I will done.
+// Pr - Pl == r - l,
+// so Pr - r = Pl - l. so map the Pl-l. and calculate Pr-r
+// Next time I will done.QQ
 
 #include <bits/stdc++.h>
 using namespace std;
