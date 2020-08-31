@@ -2,8 +2,8 @@
 Max Rating: 1499  
 [My CodeForces Profile](https://codeforces.com/profile/louis_LIU)  
 
-<a href="https://I want to become stronger">我不會超連結.jpg</a>
-
+<details>
+<summary>CodeForces Round Solution</summary>
 <table>
   <tr>
     <td>CodeForces Round</td>
@@ -37,9 +37,10 @@ Max Rating: 1499
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23664%20(Div%202)/D%20-%20Boboniu%20Chats%20with%20Du.cpp">Boboniu Chats with Du</a></td>
   </tr>
 </table>
+</details>
 
-***
-
+<details>
+<summary>CodeForces Educational Round Solution</summary>
 <table>
    <tr>
     <td>CodeForces Educational Round</td>
@@ -69,3 +70,4 @@ Max Rating: 1499
     <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Educational%20Round%2093/E - Two Types of Spells.cpp">Two Types of Spells</a></td>
   </tr>  
 </table>
+</details>
