@@ -13,13 +13,13 @@ Max Rating: 1499
     <td> D </td>
     <td> E </td>
     <td> F </td>
-    <td>HTML Play</td>
+    <td> G </td>
   </tr>
   <tr>
     <td>CodeForces Round #666 (Div. 2)</td>
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23666%20(Div.%202)/A%20-%20Juggling%20Letters.cpp">Juggling Letters</a></td>
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23666%20(Div.%202)/B%20-%20Power%20Sequence.cpp">Power Sequence</a></td>
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23666%20(Div.%202)/C - Multiples of Length.cpp">Multiples of Length</a></td>
-    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23666%20(Div.%202)/B%20-%20Power%20Sequence.cpp">Power Sequence</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23666%20(Div.%202)/D - Stoned Game.cpp">Stoned Game</a></td>
   </tr>
 </table>
