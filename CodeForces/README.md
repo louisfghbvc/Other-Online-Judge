@@ -38,6 +38,7 @@ Max Rating: 1499
   </tr>
 </table>
 
+***
 
 <table>
    <tr>
