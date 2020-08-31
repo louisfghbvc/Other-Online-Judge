@@ -6,7 +6,7 @@ Max Rating: 1499
 <summary>CodeForces Round Solution</summary>
 <table>
   <tr>
-    <td>CodeForces Round</td>
+    <td></td>
     <td> A </td>
     <td> B </td>
     <td> C </td>
@@ -43,7 +43,7 @@ Max Rating: 1499
 <summary>CodeForces Educational Round Solution</summary>
 <table>
    <tr>
-    <td>CodeForces Educational Round</td>
+    <td></td>
     <td> A </td>
     <td> B </td>
     <td> C </td>
