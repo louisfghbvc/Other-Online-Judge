@@ -1,3 +1,3 @@
 # Other Online Judge Solution
-- Hackerrank
-- CodeForces
+- [Hackerrank](https://github.com/louisfghbvc/other/tree/master/HackerRank)
+- [CodeForces](https://github.com/louisfghbvc/other/tree/master/CodeForces)
