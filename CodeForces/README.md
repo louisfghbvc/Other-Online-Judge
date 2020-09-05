@@ -22,7 +22,7 @@ Max Rating: 1499
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/C - Yet Another Array Restoration.cpp">Yet Another Array Restoration</a></td>
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/D - Decrease the Sum of Digits.cpp">Decrease the Sum of Digits</a></td>
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/E - Two Platforms.cpp">Two Platforms</a></td>
-    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/">Stoned Game</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/F - Subsequences of Length Two.cpp">Subsequences of Length Two</a></td>
   </tr>
   <tr>
     <td>#666 (Div. 2)</td>
