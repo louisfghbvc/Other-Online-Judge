@@ -16,6 +16,15 @@ Max Rating: 1499
     <td> G </td>
   </tr>
   <tr>
+    <td>#667 (Div. 3)</td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/A%20-%20Yet%20Another%20Two%20Integers%20Problem.cpp">Yet Another Two Integers Problem</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/B - Minimum Product.cpp">Minimum Product</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/C - Yet Another Array Restoration.cpp">Yet Another Array Restoration</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/D - Decrease the Sum of Digits.cpp">Decrease the Sum of Digits</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/E - Two Platforms.cpp">Two Platforms</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/">Stoned Game</a></td>
+  </tr>
+  <tr>
     <td>#666 (Div. 2)</td>
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23666%20(Div.%202)/A%20-%20Juggling%20Letters.cpp">Juggling Letters</a></td>
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23666%20(Div.%202)/B%20-%20Power%20Sequence.cpp">Power Sequence</a></td>
