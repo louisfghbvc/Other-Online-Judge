@@ -16,6 +16,13 @@ Max Rating: 1499
     <td> G </td>
   </tr>
   <tr>
+    <td>#668 (Div. 2)</td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23668%20(Div.%202)/A - Permutation Forgery.cpp">Permutation Forgery</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23668%20(Div.%202)/B - Array Cancellation.cpp">Array Cancellation</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23668%20(Div.%202)/C - Balanced Bitstring.cpp">Balanced Bitstring</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23668%20(Div.%202)/D - Tree Tag.cpp">Tree Tag</a></td>
+  </tr>
+  <tr>
     <td>#667 (Div. 3)</td>
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/A%20-%20Yet%20Another%20Two%20Integers%20Problem.cpp">Yet Another Two Integers Problem</a></td>
     <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Round%20%23667%20(Div.%203)/B - Minimum Product.cpp">Minimum Product</a></td>
