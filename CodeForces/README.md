@@ -16,6 +16,13 @@ Max Rating: 1499
     <td> G </td>
   </tr>
   <tr>
+    <td>#669 (Div. 2)</td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23669%20(Div.%202)/A - Ahahahahahahahaha.cpp">Ahahahahahahahaha</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23669%20(Div.%202)/B - Big Vova.cpp">Big Vova</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23669%20(Div.%202)/C - Chocolate Bunny">Chocolate Bunny</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23669%20(Div.%202)/D - Discrete Centrifugal Jumps.cpp">Discrete Centrifugal Jumps</a></td>
+  </tr>  
+  <tr>
     <td>#668 (Div. 2)</td>
     <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23668%20(Div.%202)/A - Permutation Forgery.cpp">Permutation Forgery</a></td>
     <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23668%20(Div.%202)/B - Array Cancellation.cpp">Array Cancellation</a></td>
