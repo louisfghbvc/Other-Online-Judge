@@ -16,6 +16,13 @@ Max Rating: 1499
     <td> G </td>
   </tr>
   <tr>
+    <td>#670 (Div. 2)</td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23670%20(Div.%202)/A - Subset Mex.cpp">Subset Mex</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23670%20(Div.%202)/B - Maximum Product.cpp">Maximum Product</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23670%20(Div.%202)/C - Link Cut Centroids.cpp">Link Cut Centroids</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23670%20(Div.%202)/D - Three Sequences">Three Sequences</a></td>
+  </tr>  
+  <tr>
     <td>#669 (Div. 2)</td>
     <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23669%20(Div.%202)/A - Ahahahahahahahaha.cpp">Ahahahahahahahaha</a></td>
     <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23669%20(Div.%202)/B - Big Vova.cpp">Big Vova</a></td>
