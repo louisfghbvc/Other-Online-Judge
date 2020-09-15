@@ -82,6 +82,13 @@ Max Rating: 1499
     <td> F </td>
     <td> G </td>
   </tr>
+    <tr>
+    <td>#95 (Div. 2)</td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Educational%20Round%2095%20(Rated%20for%20Div.%202)/A - Buying Torches.cpp">Buying Torches</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Educational%20Round%2095%20(Rated%20for%20Div.%202)/B - Negative Prefixes.cpp">Negative Prefixes</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Educational%20Round%2095%20(Rated%20for%20Div.%202)/C - Mortal Kombat Tower.cpp">Mortal Kombat Tower</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/blob/master/CodeForces/Educational%20Round%2094%20(Rated%20for%20Div.%202)/D - Trash Problem.cpp">Trash Problem</a></td>
+  </tr>
   
   <tr>
     <td>#94 (Div. 2)</td>
