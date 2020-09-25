@@ -16,6 +16,13 @@ Max Rating: 1499
     <td> G </td>
   </tr>
   <tr>
+    <td>#672 (Div. 2)</td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23672%20(Div.%202)/A - Cubes Sorting.cpp">Cubes Sorting</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23672%20(Div.%202)/B - Rock and Lever.cpp">Rock and Lever</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23672%20(Div.%202)/C - Link Cut Centroids.cpp">Link Cut Centroids</a></td>
+    <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23672%20(Div.%202)/D - Three Sequences">Three Sequences</a></td>
+  </tr>  
+  <tr>
     <td>#670 (Div. 2)</td>
     <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23670%20(Div.%202)/A - Subset Mex.cpp">Subset Mex</a></td>
     <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23670%20(Div.%202)/B - Maximum Product.cpp">Maximum Product</a></td>
