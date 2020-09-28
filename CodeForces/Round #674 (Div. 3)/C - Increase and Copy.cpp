@@ -1,5 +1,9 @@
 // Enum all case. from 1 to sqrt(N). just like factor. the more value, copy fast.
-// so enum all val. and why not value could be fusion? observe the ans...
+// so enum all val. and why not value could be fusion? autally is fusion. because ceil.
+// think case about 3. 1,1,1. and 2,1. and 3. enum n?
+// think 4. 1 3, 2 2, 4.
+// think 8. 1 7, 2 2 2 2, 3 3 2, 4 4... 
+// well... make sense? the greedy is max add value. but also small cost.
 // O(sqrt(N)).
 
 #include <bits/stdc++.h>
