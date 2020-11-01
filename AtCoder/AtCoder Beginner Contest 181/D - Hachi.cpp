@@ -1,5 +1,6 @@
 // Number theory.
 // use fre array.
+// check last 3 digit is divisible. tricky.
 
 #include <bits/stdc++.h>
 
