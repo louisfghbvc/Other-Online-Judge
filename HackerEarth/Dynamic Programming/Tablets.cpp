@@ -1,7 +1,7 @@
 // Monotonous. O(N).
 // make increase array. when not, set 1.
 // adjust decrease from back. 
-// use dp concept but tricky.
+// not dp concept but tricky.
 
 #include <bits/stdc++.h>
 
@@ -31,3 +31,5 @@ int main() {
     res += sc[i];
   cout << res << "\n";
 }
+
+// use min heap. like shortest path. update adjacent.
