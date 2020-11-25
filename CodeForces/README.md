@@ -15,6 +15,13 @@ Max Rating: 1499
     <td> F </td>
     <td> G </td>
   </tr>
+    <tr>
+    <td>#686 (Div. 3)</td>
+    <td><a href="https://github.com/louisfghbvc/Other-Online-Judge/blob/master/CodeForces/Codeforces%20Round%20%23686%20(Div.%203)/A%20-%20Special%20Permutation.cpp">Special Permutation</a></td>
+    <td><a href="https://github.com/louisfghbvc/Other-Online-Judge/blob/master/CodeForces/Codeforces%20Round%20%23686%20(Div.%203)/B - Unique Bid Auction.cpp">Unique Bid Auction</a></td>
+    <td><a href="https://github.com/louisfghbvc/Other-Online-Judge/blob/master/CodeForces/Codeforces%20Round%20%23686%20(Div.%203)/C - Sequence Transformation.cpp">Sequence Transformation</a></td>
+    <td><a href="https://github.com/louisfghbvc/Other-Online-Judge/blob/master/CodeForces/Codeforces%20Round%20%23686%20(Div.%203)/D - Number into Sequence.cpp">Number into Sequence</a></td>
+  </tr>
   <tr>
     <td>#674 (Div. 3)</td>
     <td><a href="https://github.com/louisfghbvc/other/tree/master/CodeForces/Round%20%23674%20(Div.%203)/A - Floor Number.cpp">Floor Number</a></td>
