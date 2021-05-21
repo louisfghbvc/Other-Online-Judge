@@ -93,3 +93,30 @@ int main()
 /**
 Enjoy the problem.
 **/
+
+
+// Solution2 More simple 2 set + 1 multiset.
+void solve(int n){
+    int x;
+    cin >> x >> n;
+    
+    set<int> light;
+    multiset<int> dis;
+    light.insert(0);
+    light.insert(x);
+    dis.insert(x);
+
+    for(int i = 0, p; i < n; ++i){
+        cin >> p;
+        auto r = light.upper_bound(p);
+        auto l = prev(r);
+        // split
+        dis.erase(dis.find((*r) - (*l)));
+        dis.insert((*r) - p);
+        dis.insert(p - *l);
+
+        light.insert(p);
+        cout << *dis.rbegin() << "\n";
+    }
+
+}
