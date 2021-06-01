@@ -1,0 +1,83 @@
+#include <bits/stdc++.h>
+
+#define Fast cin.tie(0), ios::sync_with_stdio(0)
+#define All(x) x.begin(), x.end()
+#define louisfghbvc int t; cin >> t; for(int tt = 0; tt < t; ++tt)
+#define sz(x) (int)(x).size()
+#define sort_unique(x) sort(x.begin(), x.end()); x.erase(unique(x.begin(), x.end()));
+using namespace std;
+typedef long long LL;
+typedef pair<LL, LL> ii;
+typedef vector<LL> vi;
+
+// #include <ext/pb_ds/assoc_container.hpp>
+// #include <ext/pb_ds/tree_policy.hpp>
+// using namespace __gnu_pbds;
+// template <class T> using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+
+template<typename T> istream& operator>>(istream &is, vector<T> &v) { for(auto &it : v) is >> it; return is; }
+template<typename T> ostream& operator<<(ostream &os, const vector<T> &v) { os << '{'; string sep = ""; for(const auto &x : v) os << sep << x, sep = ", "; return os << '}'; }
+template<typename A, typename B> ostream& operator<<(ostream &os, const pair<A, B> &p) { return os << '(' << p.first << ", " << p.second << ')'; }
+
+void dbg_out() { cerr << " end.\n"; }
+template<typename Head, typename... Tail> void dbg_out(Head H, Tail... T) { cerr << ' ' << H; dbg_out(T...); }
+
+const int N = 800 + 5;
+const int INF = 0x3f3f3f3f;
+const int mod = 1e9+7;
+/**
+Read problem statement carefully
+**/
+int arr[N][N];
+
+int n, k;
+bool check(int mid, int L){
+    vector<vector<int>> pre(n+1, vector<int>(n+1));
+    for(int i = 1; i <= n; ++i)
+        for(int j = 1; j <= n; ++j)
+            pre[i][j] = pre[i-1][j] + pre[i][j-1] - pre[i-1][j-1] + (arr[i-1][j-1] >= mid);
+
+    bool ok = 1;
+    for(int i = 0; i+k <= n; ++i){
+        for(int j = 0; j+k <= n; ++j){
+            int res = pre[i+k][j+k] - pre[i+k][j] - pre[i][j+k] + pre[i][j];
+            if(res < L) ok = 0;
+        }
+    }
+    return ok;
+}
+
+void solve(int T){
+    
+    cin >> n >> k;
+    for(int i = 0; i < n; ++i)
+        for(int j = 0; j < n; ++j)
+            cin >> arr[i][j];
+    
+    int L = k*k/2+1;
+    int l = 0, r = 1e9;
+    int ans = 0;
+    while(l <= r){
+        int mid = (l+r)/2;
+        if(check(mid, L)){
+            ans = mid;
+            l = mid+1;
+        }
+        else r = mid-1;
+    }
+    cout << ans << "\n";
+}
+
+int main()
+{
+    Fast;
+    // freopen("in.txt", "r", stdin);
+    // freopen("out.txt", "w", stdout);
+    // louisfghbvc
+        solve(1);
+    return 0;
+}
+
+/**
+Enjoy the problem.
+**/
