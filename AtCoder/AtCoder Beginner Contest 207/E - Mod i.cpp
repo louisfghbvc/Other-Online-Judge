@@ -47,6 +47,10 @@ void solve(int T){
     }
 
     dp[0][0] = 1;
+ 
+    // consider that dp[i][k] += (prefix[i] - prefix[x]) % k = 0, then add dp[x][k-1]
+    // => pi = px (mod k)
+ 
     // dp[i][j]: use i elements, use j blocks
     for(int k = 1; k <= n; ++k){ // block cnt
         memset(mp, 0, sizeof mp);
