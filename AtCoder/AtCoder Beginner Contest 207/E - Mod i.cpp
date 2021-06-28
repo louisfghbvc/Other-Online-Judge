@@ -36,32 +36,32 @@ Read problem statement carefully
 
 LL dp[N][N]; // dp[i][j], number of ways i, into j pieces
 LL arr[N];
+LL mp[N];
 
 void solve(int T){
     int n;
     cin >> n;
 
-    for(int i = 0; i < n; ++i){
+    for(int i = 1; i <= n; ++i){
         cin >> arr[i];
     }
 
     dp[0][0] = 1;
-    // dp[i+1][j+1]: already use i elements, use j blocks
-    for(int k = 0; k < n; ++k){ // block cnt
-        vi mp(k+1);
+    // dp[i][j]: use i elements, use j blocks
+    for(int k = 1; k <= n; ++k){ // block cnt
+        memset(mp, 0, sizeof mp);
         LL s = 0;
-        mp[0] = dp[0][k];
-        for(int i = 0; i < n; ++i){ // element cnt
+        for(int i = 0; i <= n; ++i){ // element cnt
             s += arr[i];
-            s %= (k+1);
-            dp[i+1][k+1] = mp[s]; // propagate to k+1
-            mp[s] = (mp[s] + dp[i+1][k]) % mod;
+            s %= k;
+            dp[i][k] = mp[s];
+            mp[s] = (mp[s] + dp[i][k-1]) % mod;
         }
     }
 
     LL res = 0;
-    for(int k = 0; k < n; ++k){
-        res = (res + dp[n][k+1]) % mod;
+    for(int k = 1; k <= n; ++k){
+        res = (res + dp[n][k]) % mod;
     }
 
     cout << res << "\n";
