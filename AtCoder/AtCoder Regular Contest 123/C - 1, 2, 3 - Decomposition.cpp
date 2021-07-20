@@ -32,6 +32,8 @@ const int INF = 0x3f3f3f3f;
 const int mod = 1e9+7;
 /**
 Read problem statement carefully
+from the top to down.
+
 **/
 
 map<LL, int> dp;
@@ -42,8 +44,8 @@ int dfs(LL x){
     if(dfs(a) <= 1 && b >= 1 && b <= 3) return dp[x] = 1;
     if(dfs(a) <= 2 && b >= 2 && b <= 6) return dp[x] = 2;
     if(dfs(a) <= 3 && b >= 3 && b <= 9) return dp[x] = 3;
-    if(dfs(a) <= 4 && b >= 4 && b <= 9) return dp[x] = 4; // 14~19
-    if(dfs(a-1) <= 4 && b >= 0 && b <= 2) return dp[x] = 4; // 10, 11, 12
+    if(dfs(a) <= 4 && b >= 4 && b <= 9) return dp[x] = 4;
+    if(dfs(a-1) <= 4 && b >= 0 && b <= 2) return dp[x] = 4; // 10, 高位借一位
     return dp[x] = 5;
 }
 
