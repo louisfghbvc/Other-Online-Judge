@@ -152,7 +152,7 @@ void solve(int gg) {
     
     // idea:
     // minimum node cover in bipartite graph
-    // use max flow, to find the min cut
+    // use max flow, to find the min nodes cover the all edge!
     
     int n; 
     cin >> n;
